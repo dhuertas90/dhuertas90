@@ -46,10 +46,3 @@ A continuación, una selección de mis proyectos destacados:
 </table>
 
 ---
-
-## 📫 Contacto
-- **Email:** dhuertas90@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/david-leonardo-huertas-godoy
-- **Más sobre mí:** https://davidhuertasinfo.github.io
-
----
