@@ -5,15 +5,15 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-Soy **Licenciado en Sistemas**, especializado en:
-- **Análisis y evaluación UX/UI**, con foco en accesibilidad digital y usabilidad.
+Soy **Licenciado en Sistemas**, con enfoque en:
+- **Análisis y evaluación UX/UI**.
 - **Docencia en informática** (Desarrollo Web, Diseño Centrado en el Usuario y Python).
 - **Desarrollo web accesible**, aplicando buenas prácticas y trabajando en proyectos con impacto social.
 
 Actualmente:
 - Trabajo en **CILSA ONG**, donde diseño e imparto cursos de programación y desarrollo web accesible.
 - Soy **ayudante graduado** en la **Facultad de Informática (UNLP)** en cátedras como Proyecto de Software y Diseño de Experiencia de Usuario.
-- Formo parte del equipo de **LINTI**, evaluando usabilidad y accesibilidad de portales públicos de la Provincia de Buenos Aires.
+- Formo parte de un equipo de trabajo mediante **LINTI**, donde evaluamos usabilidad y accesibilidad de portales públicos de la Provincia de Buenos Aires.
 
 Me interesan los proyectos que integran tecnología, accesibilidad, educación y diseño centrado en las personas.
 
