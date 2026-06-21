@@ -12,8 +12,8 @@ Soy **Licenciado en Sistemas**, con enfoque en:
 
 Actualmente:
 - Trabajo en **CILSA ONG**, donde diseño e imparto cursos de programación y desarrollo web accesible.
-- Soy **ayudante graduado** en la **Facultad de Informática (UNLP)** en cátedras como Proyecto de Software y Diseño de Experiencia de Usuario.
-- Formo parte de un equipo de trabajo mediante **LINTI**, donde evaluamos usabilidad y accesibilidad de portales públicos de la Provincia de Buenos Aires.
+- Docente en la **Facultad de Informática (UNLP)** en cátedras como Proyecto de Software y Diseño de Experiencia de Usuario.
+- Formo parte del equipo de **LINTI**, con enfoque de UX Reseach desde 2023.
 
 Me interesan los proyectos que integran tecnología, accesibilidad, educación y diseño centrado en las personas.
 
